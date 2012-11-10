@@ -47,121 +47,116 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+  <rect
+     style="fill:#00ff00;stroke:#000000;stroke-width:1.90401769000000010"
+     id="svg_11"
+     height="95.686638"
+     width="95.522987"
+     y="22.99313"
+     x="33.451195" />
+  <rect
+     style="fill:#00ff00;stroke:#000000;stroke-width:1.90401769000000010"
+     id="svg_10"
+     height="95.686638"
+     width="95.522987"
+     y="118.27552"
+     x="33.451195" />
+  <rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.90401769"
+     id="svg_9"
+     height="95.686638"
+     width="95.522987"
+     y="22.99313"
+     x="128.57063" />
+  <rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.90401769000000010"
+     id="svg_8"
+     height="95.686638"
+     width="95.522987"
+     y="118.27552"
+     x="128.57063" />
+  <rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.90401769"
+     id="svg_7"
+     height="95.686638"
+     width="95.522987"
+     y="213.55792"
+     x="128.57063" />
+  <rect
+     style="fill:#00ff00;stroke:#000000;stroke-width:1.90401769000000010"
+     id="svg_6"
+     height="95.686638"
+     width="95.522987"
+     y="213.55792"
+     x="33.451195" />
+  <rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.90401769"
+     id="svg_5"
+     height="95.686638"
+     width="95.522987"
+     y="22.99313"
+     x="223.69008" />
+  <rect
+     style="fill:#00ff00;stroke:#000000;stroke-width:1.90401769000000010"
+     id="svg_4"
+     height="95.686638"
+     width="95.522987"
+     y="118.27552"
+     x="223.69008" />
+  <rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.90401769"
+     id="svg_3"
+     height="95.686638"
+     width="95.522987"
+     y="213.55792"
+     x="223.69008" />
+  <text
+     style="font-size:15.23214149px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;font-family:serif"
+     x="81.282211"
+     y="323.80826"
+     id="svg_13"
+     font-size="24"
+     xml:space="preserve"
+     transform="scale(0.99914452,1.0008562)">6</text>
+  <text
+     style="font-size:15.23214149px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;font-family:serif"
+     x="176.88699"
+     y="323.80826"
+     font-size="24"
+     xml:space="preserve"
+     id="svg_14"
+     transform="scale(0.99914453,1.0008562)">0</text>
+  <text
+     style="font-size:15.23214149px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;font-family:serif"
+     x="272.49176"
+     y="323.80826"
+     id="svg_15"
+     font-size="24"
+     xml:space="preserve"
+     transform="scale(0.99914452,1.0008562)">1</text>
   <g
-     id="g4"
+     id="svg_19"
      transform="matrix(0.63412959,0,0,0.63521596,1.744715,-8.7676679)">
-    <rect
-       x="50"
-       y="50"
-       width="150.63638"
-       height="150.63638"
-       id="svg_11"
-       style="fill:#7fff00;stroke:#000000;stroke-width:3" />
-    <rect
-       x="50"
-       y="200"
-       width="150.63638"
-       height="150.63638"
-       id="svg_10"
-       style="fill:#7fff00;stroke:#000000;stroke-width:3" />
-    <rect
-       x="200"
-       y="50"
-       width="150.63638"
-       height="150.63638"
-       id="svg_9"
-       style="fill:#ffffff;stroke:#000000;stroke-width:3" />
-    <rect
-       x="200"
-       y="200"
-       width="150.63638"
-       height="150.63638"
-       id="svg_8"
-       style="fill:#7fff00;stroke:#000000;stroke-width:3" />
-    <rect
-       x="200"
-       y="350"
-       width="150.63638"
-       height="150.63638"
-       id="svg_7"
-       style="fill:#ffffff;stroke:#000000;stroke-width:3" />
-    <rect
-       x="50"
-       y="350"
-       width="150.63638"
-       height="150.63638"
-       id="svg_6"
-       style="fill:#7fff00;stroke:#000000;stroke-width:3" />
-    <rect
-       x="350"
-       y="50"
-       width="150.63638"
-       height="150.63638"
-       id="svg_5"
-       style="fill:#ffffff;stroke:#000000;stroke-width:3" />
-    <rect
-       x="350"
-       y="200"
-       width="150.63638"
-       height="150.63638"
-       id="svg_4"
-       style="fill:#ffffff;stroke:#000000;stroke-width:3" />
-    <rect
-       x="350"
-       y="350"
-       width="150.63638"
-       height="150.63638"
-       id="svg_3"
-       style="fill:#ffffff;stroke:#000000;stroke-width:3" />
-    <title
-       id="title15">Layer 1</title>
-    <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
-    <title
-       id="title17">Layer 1</title>
     <text
-       xml:space="preserve"
+       style="font-size:24px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;font-family:serif"
+       x="521"
+       y="434.09091"
+       id="svg_16"
        font-size="24"
-       id="svg_13"
-       y="524"
-       x="125.31818"
-       style="font-size:24px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;font-family:serif">6</text>
+       xml:space="preserve">1</text>
     <text
-       id="svg_14"
-       xml:space="preserve"
+       style="font-size:24px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;font-family:serif"
+       x="521"
+       y="283.45456"
+       id="svg_17"
        font-size="24"
-       y="524"
-       x="275.95456"
-       style="font-size:24px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;font-family:serif">1</text>
+       xml:space="preserve">3</text>
     <text
-       xml:space="preserve"
+       style="font-size:24px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;font-family:serif"
+       x="521"
+       y="132.81818"
+       id="svg_18"
        font-size="24"
-       id="svg_15"
-       y="524"
-       x="426.59091"
-       style="font-size:24px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;font-family:serif">0</text>
-    <g
-       id="svg_19">
-      <text
-         xml:space="preserve"
-         font-size="24"
-         id="svg_16"
-         y="434.09091"
-         x="521"
-         style="font-size:24px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;font-family:serif">1</text>
-      <text
-         xml:space="preserve"
-         font-size="24"
-         id="svg_17"
-         y="283.45456"
-         x="521"
-         style="font-size:24px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;font-family:serif">3</text>
-      <text
-         xml:space="preserve"
-         font-size="24"
-         id="svg_18"
-         y="132.81818"
-         x="521"
-         style="font-size:24px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;font-family:serif">1</text>
-    </g>
+       xml:space="preserve">1</text>
   </g>
 </svg>
